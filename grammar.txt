@@ -1,0 +1,14 @@
+S -> K ; B
+B -> p v ( K ) C
+K -> v : i
+C -> v = v ; D
+D -> f L E
+E -> M F
+F -> h f L G
+G -> M H
+H -> h I
+I -> M J
+J -> e f ; N
+N -> e v
+L -> v = v a v = v t
+M -> r ( s ) ; 

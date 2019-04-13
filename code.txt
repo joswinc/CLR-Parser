@@ -1,0 +1,11 @@
+X: integer;
+Procedure  foo ( b : integer ) 
+b = 13; 
+if x = 12 and b = 13 then 
+printf ( "bycopy-incopy-out" ) ; 
+elseif x = 13 and b = 13 then 
+printf ( "byaddress" ) ; 
+else 
+printf ( "Amystery" ) ; 
+end if; 
+end foo
